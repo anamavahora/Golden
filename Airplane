@@ -1,5 +1,5 @@
  <img src="https://images.vexels.com/media/users/3/258903/isolated/preview/b5102562d77638882698327f8b21db30-transporte-aereo-de-aviao-a-jato.png" alt="Nave" width="120">
-    </a>
+    <a>
   </marquee>
   <marquee direction="right" scrolldelay="200">
     <a href="https://codepen.io/sergioandrade/full/abNVdrX" target="_top">
@@ -26,4 +26,3 @@
       <img src="https://images.vexels.com/media/users/3/258903/isolated/preview/b5102562d77638882698327f8b21db30-transporte-aereo-de-aviao-a-jato.png" alt="Nave" width="120">
     </a>
   </marquee>
-</body>
